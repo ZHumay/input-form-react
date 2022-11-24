@@ -1,0 +1,22 @@
+input,textarea{
+    background-color: bisque;
+    width: 300px;
+    padding: 5px;
+    border: 1px solid bisque;
+    border-radius: 5px;
+}
+select{
+    background-color: bisque;
+    width: 310px;
+    padding: 5px;
+    border: 1px solid bisque;
+    border-radius: 5px;
+}
+button{
+    background-color: tan;
+    width: 310px;
+    padding: 10px;
+}
+.check{
+    width: 5%;
+}
